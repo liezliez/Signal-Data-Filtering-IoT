@@ -18,3 +18,4 @@ The Data From Phyphox
 
 #How to
 Use .csv file for the input dataset from Gyroscope and Accelerometer Sensor from the Phyphox App
+or for example. use the 13.csv file inside this repositories

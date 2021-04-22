@@ -1,3 +1,4 @@
+![Moving+Average+Low-pass+Filter](https://user-images.githubusercontent.com/42132479/115778845-6efd5f80-a3e1-11eb-8a99-6d1cf42b0b9f.jpg)
 # Signal-Data-Filtering-IoT
 Removing Noises from Raw Gait Angle Data Signal using LPF or MVA method
 

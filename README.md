@@ -15,3 +15,6 @@ conditions running straight constantly at a speed of about 1.5 m/s
 The Data From Phyphox
 
 ![image](https://user-images.githubusercontent.com/42132479/115754223-2edcb380-a3c6-11eb-8340-27257f76ddf2.png)
+
+#How to
+Use .csv file for the input dataset from Gyroscope and Accelerometer Sensor from the Phyphox App

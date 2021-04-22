@@ -1,5 +1,5 @@
 # Signal-Data-Filtering-IoT
-Removing Noises from the Data of any numerical Signal using LPF or MVA method
+Removing Noises from the Data of any numerical Data Signal using LPF or MVA method
 
 # What is it?
 In this code im implementing a Lowpass Filter and Moving Average Filter to remove the unwanted signal/noise from a combination of Accelerometer  
